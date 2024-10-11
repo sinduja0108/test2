@@ -1,0 +1,12 @@
+{
+  "name": "gitlab-comment-fetcher",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node github-code-review.js"
+  },
+  "keywords": [],
+  "author": "S Sinduja Sankara Narayanan",
+  "license": "ISC",
+  "description": "A script to fetch comments from Github merge requests and save them in a CSV file."
+}
